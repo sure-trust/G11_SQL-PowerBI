@@ -19,6 +19,16 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 To enroll in the SQL & POWERBI Course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/65)
 
+
+|Student Name |Link|
+|-------------|----|
+|Chandra sekhar reddy malireddy|[click here](link)|
+|Chetan Tirumala|[click here](link)|
+|Datta Sai|[click here](link)|
+|Nagavani M|[click here](link)|
+|Shaik Rubeena|[click here](link)|
+|Swathi Punugupati|[click here](link)|
+
 ## Repository Description
 
 This repository is designed to support the G11 SQL & POWERBI program at SURE Trust. It follows the below mentioned organization structure:
