@@ -23,7 +23,6 @@ To enroll in the SQL & POWERBI Course, please visit the official SURE Trust webs
 |Student Name |Link|
 |-------------|----|
 |Chandra sekhar reddy malireddy|[click here](link)|
-|Chetan Tirumala|[click here](link)|
 |Datta Sai|[click here](link)|
 |Nagavani M|[click here](link)|
 |Shaik Rubeena|[click here](link)|
@@ -33,7 +32,6 @@ To enroll in the SQL & POWERBI Course, please visit the official SURE Trust webs
 
 This repository is designed to support the G11 SQL & POWERBI program at SURE Trust. It follows the below mentioned organization structure:
 
-- *Notes*: An archive of  notes and course materials provided by the trainer.
 - *Mini Projects*: A repository holding code files of the mini projects undertaken during the course.
 - *Final Project*: A comprehensive compilation of code files and resources of the final projects.
 - *Course Reports*: A repository containing course reports authored by students, documenting their individual progress and experiential insights.
