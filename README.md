@@ -17,7 +17,7 @@ SURE Trust is a registered NGO committed to eradicating the disparity between sk
 
 ## SQL & POWERBI Course Registration
 
-To enroll in the SQL & POWERBI Course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses/65)
+To enroll in the SQL & POWERBI Course, please visit the official SURE Trust website: [Course Registration](https://suretrustforruralyouth.com/courses)
 
 
 |Student Name |Link|
