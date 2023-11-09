@@ -24,4 +24,4 @@ Below is a table summarizing the mini projects and final project completed durin
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
 | Mini Projects: [Project Description]     | [Click Here](https://github.com/sure-trust/G11_SQL-PowerBI/tree/main/Mini%20Projects/Swathi%20Punugupati)|
-| Final Project: [Project Description]     | [Click Here] (https://github.com/swathi-puunugupati/G11_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Swathi%20Punugupati)                      |
+| Final Project: [Project Description]     | [Click Here](https://github.com/swathi-puunugupati/G11_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Swathi%20Punugupati)                      |
