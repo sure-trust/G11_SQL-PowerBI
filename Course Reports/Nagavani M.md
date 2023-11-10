@@ -11,10 +11,9 @@
 
 # Course Report
 
-## Name: Swathi.punugupati
+## Name: Nagavani M
 
-## Qualifications: MCA
-
+## Qualifications: B.TECH(Graduated)
 Welcome to the course report for the SQL & Microsoft BI Tools including PowerBi! This README document provides an overview of the course, its mini projects and final project.
 
 ### Mini Projects and Final Project
@@ -23,5 +22,5 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Click Here](https://github.com/sure-trust/G11_SQL-PowerBI/tree/main/Mini%20Projects/Swathi%20Punugupati)|
-| Final Project: [Project Description]     | [Click Here] (https://github.com/swathi-puunugupati/G11_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Swathi%20Punugupati)                      |
+| Mini Projects: [power BI & SQL MINI PROJECTS]     | [Click here](https://github.com/sure-trust/G11_SQL-PowerBI/tree/main/Mini%20Projects/Nagavani%20M)|
+| Final Project: [power BI & SQL MAIN PROJECTS]     | [Click here](https://github.com/sure-trust/G11_SQL-PowerBI/tree/main/Final%20Capstone%20Project/Nagavani%20M)|
