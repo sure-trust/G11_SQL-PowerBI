@@ -22,11 +22,11 @@ To enroll in the SQL & POWERBI Course, please visit the official SURE Trust webs
 
 |Student Name |Link|
 |-------------|----|
-|Chandra sekhar reddy malireddy|[click here](link)|
-|Datta Sai|[click here](link)|
-|Nagavani M|[click here](link)|
-|Shaik Rubeena|[click here](link)|
-|Swathi Punugupati|[click here](link)|
+|Chandra sekhar reddy malireddy|[click here](https://github.com/sure-trust/G11_SQL-PowerBI/blob/main/Course%20Reports/ChandraSekharReddy.md)|
+|Datta Sai|[click here](https://github.com/sure-trust/G11_SQL-PowerBI/blob/main/Course%20Reports/Dattasai%20Danta.md)|
+|Nagavani M|[click here](https://github.com/sure-trust/G11_SQL-PowerBI/blob/main/Course%20Reports/Nagavani%20M.md)|
+|Shaik Rubeena|[click here](https://github.com/sure-trust/G11_SQL-PowerBI/blob/main/Course%20Reports/Shaik%20Rubeena.md)|
+|Swathi Punugupati|[click here](https://github.com/sure-trust/G11_SQL-PowerBI/blob/main/Course%20Reports/P%20Swathi.md)|
 
 ## Repository Description
 
